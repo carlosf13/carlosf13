@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosf13
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML,CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
